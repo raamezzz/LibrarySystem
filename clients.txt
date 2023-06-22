@@ -1,0 +1,73 @@
+[
+user: 
+username: Ramez
+email: Ramez
+password: Ramoza
+client[
+is Late: false
+fine: 0.0
+library ID: SD1670
+borrowed Books: [
+title: The Picture of Dorian Gray
+author Name: Oscar Wilde, Jeffrey Eugenides
+category: novel / fiction
+ISBN: 9781785996177
+number Of Copies: 5
+number Of Available Copies: 4
+publication Year: 1890
+is Borrowable: true
+price: 9.0
+due Date: null, 
+title: All the Light We Cannot See
+author Name: Anthony Doerr
+category: historical / fiction
+ISBN: 9781476746586
+number Of Copies: 7
+number Of Available Copies: 6
+publication Year: 2014
+is Borrowable: true
+price: 13.74
+due Date: null, 
+title: We Are the Ants
+author Name: Shaun David Hutchinson
+category: novel / fiction
+ISBN: 9781481449632
+number Of Copies: 10
+number Of Available Copies: 9
+publication Year: 2016
+is Borrowable: true
+price: 11.99
+due Date: Fri Jul 06 00:00:00 EET 3923]
+returned Books: []
+lost Books: []] , 
+user: 
+username: Bob
+email: Bob@test.java
+password: BobTheSecond
+client[
+is Late: false
+fine: 0.0
+library ID: SD725
+borrowed Books: [
+title: All the Light We Cannot See
+author Name: Anthony Doerr
+category: historical / fiction
+ISBN: 9781476746586
+number Of Copies: 7
+number Of Available Copies: 6
+publication Year: 2014
+is Borrowable: true
+price: 13.74
+due Date: Thu Jul 06 12:37:47 EET 2023, 
+title: The Picture of Dorian Gray
+author Name: Oscar Wilde, Jeffrey Eugenides
+category: novel / fiction
+ISBN: 9781785996177
+number Of Copies: 5
+number Of Available Copies: 4
+publication Year: 1890
+is Borrowable: true
+price: 9.0
+due Date: Thu Jul 06 12:38:27 EET 2023]
+returned Books: []
+lost Books: []] ]

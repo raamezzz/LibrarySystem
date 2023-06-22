@@ -1,0 +1,111 @@
+[
+title: A Monster Calls
+author Name: Patrick Ness
+category: novel / fiction
+ISBN: 978-0-7636-5633-1
+number Of Copies: 5
+number Of Available Copies: 5
+publication Year: 2011
+is Borrowable: true
+price: 8.49
+due Date: null, 
+title: The Perks Of Being a Wallflower
+author Name: Stephen Chbosky
+category: novel / fiction
+ISBN: 978-0671027346
+number Of Copies: 10
+number Of Available Copies: 10
+publication Year: 1999
+is Borrowable: true
+price: 11.55
+due Date: null, 
+title: The Maid
+author Name: Nita Prose
+category: thriller / fiction
+ISBN: 9780593356159
+number Of Copies: 10
+number Of Available Copies: 10
+publication Year: 2022
+is Borrowable: true
+price: 14.4
+due Date: null, 
+title: Tomorrow, and Tomorrow, and Tomorrow
+author Name: Gabrielle Zevin
+category: novel
+ISBN: 9780593321201
+number Of Copies: 15
+number Of Available Copies: 15
+publication Year: 2022
+is Borrowable: true
+price: 15.49
+due Date: null, 
+title: Rich Dad, Poor Dad
+author Name: Robert T.Kiyosaki
+category: self-help
+ISBN: 9780751532715
+number Of Copies: 15
+number Of Available Copies: 15
+publication Year: 2001
+is Borrowable: true
+price: 16.13
+due Date: null, 
+title: Babel: An Arcane History
+author Name: R.F.Kuang
+category: fantasy / fiction
+ISBN: 9780063021426
+number Of Copies: 7
+number Of Available Copies: 7
+publication Year: 2022
+is Borrowable: true
+price: 14.99
+due Date: null, 
+title: The White Album
+author Name: Joan Didion
+category: memoir / nonfiction
+ISBN: 9780374532079
+number Of Copies: 5
+number Of Available Copies: 5
+publication Year: 1979
+is Borrowable: true
+price: 12.59
+due Date: null, 
+title: All the Light We Cannot See
+author Name: Anthony Doerr
+category: historical / fiction
+ISBN: 9781476746586
+number Of Copies: 7
+number Of Available Copies: 6
+publication Year: 2014
+is Borrowable: true
+price: 13.74
+due Date: Thu Jul 06 12:37:47 EET 2023, 
+title: What Happened To You?: Conversations on Trauma, Resilience, and Healing
+author Name: Bruce D. Perry, Oprah Winfrey
+category: nonfiction / self-help
+ISBN: 9781250223180
+number Of Copies: 10
+number Of Available Copies: 10
+publication Year: 2021
+is Borrowable: true
+price: 15.99
+due Date: null, 
+title: We Are the Ants
+author Name: Shaun David Hutchinson
+category: novel / fiction
+ISBN: 9781481449632
+number Of Copies: 10
+number Of Available Copies: 10
+publication Year: 2016
+is Borrowable: true
+price: 11.99
+due Date: null, 
+title: The Picture of Dorian Gray
+author Name: Oscar Wilde, Jeffrey Eugenides
+category: novel / fiction
+ISBN: 9781785996177
+number Of Copies: 5
+number Of Available Copies: 4
+publication Year: 1890
+is Borrowable: true
+price: 9.0
+due Date: Thu Jul 06 12:38:27 EET 2023]
